@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Personal Profile: [https://github.com/stomper0]
+Personal Profile: [stomper0](https://github.com/stomper0)
 <!--
 **idata-frank/idata-frank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
